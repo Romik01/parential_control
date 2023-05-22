@@ -6,8 +6,9 @@ import 'package:parental_control/services/auth.dart';
 import 'package:parental_control/services/geo_locator_service.dart';
 import 'package:parental_control/theme/theme.dart';
 import 'package:provider/provider.dart';
-
 import 'app/config/screencontroller_config.dart';
+import 'package:flutter/material.dart';
+import 'package:local_auth/local_auth.dart';
 
 //TODO: ADD easyLocalization to translate app
 //TODO: Write all strings in a Class
